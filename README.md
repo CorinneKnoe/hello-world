@@ -1,5 +1,10 @@
 # hello-world
 First baby-steps in GitHub
-I don't know what I am doing but I forge ahead!\\
-Is this even logical?*what's this doing?* \
+ readme_edits
 
+
+HAHAH, like a fresh page! How am I doing a new paragraph?
+
+????
+=======
+ master
